@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/mkellogg/Projects/Tip With Friends/Tip With Friends/OptionViewController.swift">
+   </FileRef>
+   <FileRef
       location = "self:Tip With Friends.xcodeproj">
    </FileRef>
 </Workspace>
